@@ -955,8 +955,98 @@ if ( ! class_exists( 'Learts_Templates' ) ) {
 			ob_start();
 			?>
 
-			<a href="#" class="back-to-top"><i
+			<a class=" help-fixed help-btn"><span>Need Help?</span></a>
+			<a class=" help-fixed help-fixed-form">
+				 <i class="fas fa-times close-btn"></i>
+			<?php echo do_shortcode('[contact-form-7 id="10035" title="Need Help?"]'); ?>
+			</a>
+
+			<a href="#" class="back-to-top" style="display: none !important" ><i
 					class="far fa-chevron-up"></i><span><?php esc_html_e( 'Back to top', 'learts' ); ?></span></a>
+
+<style>
+
+.help-fixed {
+    opacity: 1 !important;
+    background: #86c9a4 !important;
+    font-size: 18px;
+    color: white !important;
+    position: fixed;
+    width: 80px;
+    height: 80px;
+    bottom: 10%;
+    line-height: 24px;
+    right: 25px;
+    border-radius: 50%;
+    padding: 15px 12px;
+    z-index: 1000;
+	text-align: center;
+    cursor: default;
+}
+.help-fixed-form {
+	display: none;
+    width: 25%;
+    height: auto;
+    background: white !important;
+    border: 2px solid #86c9a4 !important;
+    border-radius: 4px;
+}
+.help-fixed-form .close-btn{
+	color: black;
+    position: absolute;
+    right: 12px;
+	z-index: 1000000;
+}
+.help-fixed-form input{
+	font-size: 12px;
+}
+.help-fixed-form [name="your-message"] {
+    font-size: 12px;
+    height: 50px;
+}
+.help-fixed-form input[type="submit"] {
+    font-size: 12px;
+    background: #86c9a4 !important;
+    border: none;
+    color: white !important;
+    padding: 8px 24px !important;
+    float: right;
+    margin-top: 12px;
+}
+.help-fixed-form div.wpcf7-validation-errors {
+    display: none !important;
+}
+.help-fixed-form div.wpcf7-mail-sent-ok {
+    border: 2px solid #398f14;
+    color: black;
+}
+.help-fixed-form br {
+    display: none;
+}
+.help-fixed-form .your-name, .help-fixed-form .your-email {
+    width: 50%;
+    float: left;
+    margin-top: 12px;
+}
+.help-fixed-form .wpcf7-form-control-wrap {
+    position: unset !important;
+}
+.help-fixed-form span.wpcf7-not-valid-tip {
+    color: #f00;
+    font-size: 12px;
+    font-weight: normal;
+    display: block;
+    text-align: left;
+}
+</style>
+<script>
+jQuery('.close-btn').click(function(){
+jQuery('.help-fixed-form').hide()
+})
+jQuery('.help-btn').click(function(){
+jQuery('.help-fixed-form').show()
+})
+</script>
 			<?php
 
 			return ob_get_clean();
