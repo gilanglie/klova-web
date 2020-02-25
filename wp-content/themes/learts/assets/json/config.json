@@ -1,0 +1,11 @@
+{
+	"api": "https://api.insightstud.io/update/learts",
+	"core_url": "https://api.insightstud.io/update/learts/plugins/insight-core.zip",
+	"docs": "https://document.thememove.com/learts/",
+	"icon": "/assets/images/thumbnail.jpg",
+	"import_package_full": "https://api.insightstud.io/import/learts/learts-import-full.zip",
+	"import_package_dummy": "https://api.insightstud.io/import/learts/learts-import-dummy.zip",
+	"screenshot": "/screenshot.jpg",
+	"tf": "https://themeforest.net/item/learts-minimal-creative-woocommerce-wordpress-theme/21949766",
+	"support": "https://support.thememove.com"
+}

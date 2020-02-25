@@ -1,0 +1,418 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+
+	<meta charset="UTF-8">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+	
+	<link rel="icon" href="https://klova.id/wp-content/uploads/2019/08/favicon-50x50.png" sizes="32x32" />
+<link rel="icon" href="https://klova.id/wp-content/uploads/2019/08/favicon.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://klova.id/wp-content/uploads/2019/08/favicon.png" />
+<meta name="msapplication-TileImage" content="https://klova.id/wp-content/uploads/2019/08/favicon.png" />
+
+					<script>document.documentElement.className = document.documentElement.className + ' yes-js js_active js'</script>
+			<title>Maintenance &#8211; Klova Studio</title>
+<style type="text/css" data-type="vc_custom-css">.right-col.header-tools {
+    display: none;
+}
+.phone {
+    display: none;
+}   
+.left-col {
+    display: none !important;
+}</style><style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1547261735359{background-image: url(http://learts.local/wp-content/uploads/2018/10/cms.jpg?id=429) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}</style><link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Klova Studio &raquo; Feed" href="https://klova.id/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Klova Studio &raquo; Comments Feed" href="https://klova.id/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/klova.id\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.3"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='font-awesome-pro-css'  href='https://klova.id/wp-content/plugins/learts-addons//assets/libs/font-awesome-pro/css/fontawesome.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='font-ion-icons-css'  href='https://klova.id/wp-content/plugins/learts-addons//assets/libs/Ionicons/css/ionicons.min.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='font-themify-icons-css'  href='https://klova.id/wp-content/plugins/learts-addons//assets/libs/themify-icons/css/themify-icons.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='font-futura-css'  href='https://klova.id/wp-content/themes/learts/assets/libs/font-futura/font.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://klova.id/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min.css?ver=6.0.4' type='text/css' media='all' />
+<style id='font-awesome-inline-css' type='text/css'>
+[data-font="FontAwesome"]:before {font-family: 'FontAwesome' !important;content: attr(data-icon) !important;speak: none !important;font-weight: normal !important;font-variant: normal !important;text-transform: none !important;line-height: 1 !important;font-style: normal !important;-webkit-font-smoothing: antialiased !important;-moz-osx-font-smoothing: grayscale !important;}
+</style>
+<link rel='stylesheet' id='animate-css-css'  href='https://klova.id/wp-content/themes/learts/assets/libs/animate.css/css/animate.min.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='hint-css-css'  href='https://klova.id/wp-content/themes/learts/assets/libs/hint.css/css/hint.min.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-nice-select-css'  href='https://klova.id/wp-content/themes/learts/assets/libs/jquery-nice-select/css/nice-select.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css'  href='https://klova.id/wp-content/themes/learts/assets/libs/magnific-popup/css/magnific-popup.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='perfect-scrollbar-css'  href='https://klova.id/wp-content/themes/learts/assets/libs/perfect-scrollbar/css/perfect-scrollbar.min.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='select2-css'  href='https://klova.id/wp-content/themes/learts/assets/libs/select2/css/select2.min.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='gif-player-css'  href='https://klova.id/wp-content/themes/learts/assets/libs/jquery.gifplayer/dist/gifplayer.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='lightgallery-css'  href='https://klova.id/wp-content/themes/learts/assets/libs/lightgallery/css/lightgallery.min.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='growl-css'  href='https://klova.id/wp-content/themes/learts/assets/libs/growl/css/jquery.growl.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://klova.id/wp-includes/css/dist/block-library/style.min.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-theme-css'  href='https://klova.id/wp-includes/css/dist/block-library/theme.min.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-style-css'  href='https://klova.id/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css?ver=2.3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-selectBox-css'  href='https://klova.id/wp-content/plugins/yith-woocommerce-wishlist/assets/css/jquery.selectBox.css?ver=1.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='yith-wcwl-font-awesome-css'  href='https://klova.id/wp-content/plugins/yith-woocommerce-wishlist/assets/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='yith-wcwl-main-css'  href='https://klova.id/wp-content/plugins/yith-woocommerce-wishlist/assets/css/style.css?ver=2.2.13' type='text/css' media='all' />
+<style id='yith-wcwl-main-inline-css' type='text/css'>
+.wishlist_table .add_to_cart, a.add_to_wishlist.button.alt { border-radius: 16px; -moz-border-radius: 16px; -webkit-border-radius: 16px; }
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='https://klova.id/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='mabel-shoppable-images-lite-css'  href='https://klova.id/wp-content/plugins/mabel-shoppable-images-lite/public/css/public.min.css?ver=1.0.7' type='text/css' media='all' />
+<style id='mabel-shoppable-images-lite-inline-css' type='text/css'>
+span.mb-siwc-tag{margin-left:-12px;margin-top:-12px;color:#7b53c1;width:25px;height:25px;line-height:25px;background:#ffffff;font-size:14px;border-radius:50%;}
+</style>
+<link rel='stylesheet' id='wpos-font-awesome-css'  href='https://klova.id/wp-content/plugins/slider-and-carousel-plus-widget-for-instagram/assets/css/font-awesome.min.css?ver=1.7' type='text/css' media='all' />
+<link rel='stylesheet' id='wpos-magnific-style-css'  href='https://klova.id/wp-content/plugins/slider-and-carousel-plus-widget-for-instagram/assets/css/magnific-popup.css?ver=1.7' type='text/css' media='all' />
+<link rel='stylesheet' id='wpos-slick-style-css'  href='https://klova.id/wp-content/plugins/slider-and-carousel-plus-widget-for-instagram/assets/css/slick.css?ver=1.7' type='text/css' media='all' />
+<link rel='stylesheet' id='iscwp-public-css-css'  href='https://klova.id/wp-content/plugins/slider-and-carousel-plus-widget-for-instagram/assets/css/iscwp-public.css?ver=1.7' type='text/css' media='all' />
+<link rel='stylesheet' id='woob-bootstrap-style-css'  href='https://klova.id/wp-content/plugins/woo-brand/css/framework/bootstrap.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='woob-front-end-style-css'  href='https://klova.id/wp-content/plugins/woo-brand/css/front-style.css?ver=5.2.3' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='woobt-frontend-css'  href='https://klova.id/wp-content/plugins/woo-bought-together/assets/css/frontend.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-colorbox-css'  href='https://klova.id/wp-content/plugins/yith-woocommerce-compare/assets/css/colorbox.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce_prettyPhoto_css-css'  href='//klova.id/wp-content/plugins/woocommerce/assets/css/prettyPhoto.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='learts-main-style-css'  href='https://klova.id/wp-content/themes/learts/style.min.css?ver=5.2.3' type='text/css' media='all' />
+<style id='learts-main-style-inline-css' type='text/css'>
+@media (min-width: 1200px) {.site-logo{line-height:100px}.site-logo img{max-height:100px}.site-header.header-split .site-logo{height:100px}.site-header.sticky-header{height:80px}.site-header.header-split.sticky-header .site-logo{height:80px}.site-header.sticky-header .site-logo{line-height:80px}.site-header.sticky-header .site-logo img{max-height:80px}}.site-menu .menu > ul > li > a, .site-menu .menu > li > a,.site-menu.menu-disabled{height:100px;line-height:100px}.site-header.sticky-header.header-split .site-menu.menu-disabled{height:80px}.site-header.sticky-header .site-menu .menu > ul > li > a, .site-header.sticky-header .site-menu .menu > li > a{height:80px;line-height:80px}.site-menu .menu > ul > li:hover > a, .site-menu .menu > li:hover > a{color:#7E7E7E}.site-menu .menu li.menu-item.menu-item-has-children:hover > a:before{color:#333333}.site-menu .menu > ul > li > a .menu-item-text:after, .site-menu .menu > li > a .menu-item-text:after{ background-color:#333333}.site-menu .menu > ul > li .children li.page_item:before, .site-menu .menu > li .sub-menu li.menu-item:before  { background-color:#333333}.site-menu .menu > ul > li .children li.page_item:hover > a,.site-menu .menu > li .sub-menu li.menu-item:hover > a,.site-menu .menu > ul > li .children li.page_item:hover:after,.site-menu .menu > li .sub-menu li.menu-item:hover:after,.site-menu .menu > ul > li .children li.page_item.current_page_item > a,.site-menu .menu > li .sub-menu li.menu-item.current-menu-item > a { color: #333333}@media (min-width: 1200px) {.page-title > .container > .row{height:380px}}.offcanvas-btn .ion-navicon{color:#7e7e7e}.woocommerce.single-product .product .product-tabs-wrapper .wc-tabs li.additional_information_tab {    display: none !important;}.minicart-message {     display: none !Important;}.area-404 h1 {    font-family: Quicksand;}.area-404 {    background-image: url(https://klova.id/wp-content/uploads/2019/08/404.png) !important;    }.area-404 img {    height: 100px;    margin-left: 32px;}.product-badges span.outofstock {    background: #fff700 !important;    color: black;}.site-header .header-tools .header-login {    display: none !Important;}.faq-btn {    text-align: center;    margin: 12px auto 0;    display: block;}.site-mobile-menu .header-login {    display: none !important;}@media screen and (min-width: 1400px){body.custom-logo-sticky .sticky-header {    margin: 0 !important;}}
+</style>
+<link rel='stylesheet' id='isw-frontend-css'  href='https://klova.id/wp-content/plugins/insight-swatches/assets/css/style.css?ver=5.2.3' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='vc_lte_ie9-css'  href='https://klova.id/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css?ver=6.0.4' type='text/css' media='screen' />
+<![endif]-->
+<link rel='stylesheet' id='js_composer_front-css'  href='https://klova.id/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.0.4' type='text/css' media='all' />
+<link rel='stylesheet' id='redux-google-fonts-learts_options-css'  href='https://fonts.googleapis.com/css?family=Quicksand%3A300%2C400%2C500%2C700&#038;subset=latin&#038;ver=1568395162' type='text/css' media='all' />
+<script type="text/template" id="tmpl-variation-template">
+	<div class="woocommerce-variation-description">{{{ data.variation.variation_description }}}</div>
+	<div class="woocommerce-variation-price">{{{ data.variation.price_html }}}</div>
+	<div class="woocommerce-variation-availability">{{{ data.variation.availability_html }}}</div>
+</script>
+<script type="text/template" id="tmpl-unavailable-variation-template">
+	<p>Sorry, this product is unavailable. Please choose a different combination.</p>
+</script>
+<script type='text/javascript' src='https://klova.id/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://klova.id/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mabel_script_vars = {"ajaxurl":"https:\/\/klova.id\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://klova.id/wp-content/plugins/mabel-shoppable-images-lite/public/js/public.min.js?ver=1.0.7'></script>
+<script type='text/javascript' src='https://klova.id/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/klova.id\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://klova.id/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=3.7.0'></script>
+<script type='text/javascript' src='https://klova.id/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js?ver=6.0.4'></script>
+<link rel='https://api.w.org/' href='https://klova.id/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://klova.id/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://klova.id/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.2.3" />
+<meta name="generator" content="WooCommerce 3.7.0" />
+<link rel="canonical" href="https://klova.id/maintenance/" />
+<link rel='shortlink' href='https://klova.id/?p=270' />
+<link rel="alternate" type="application/json+oembed" href="https://klova.id/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fklova.id%2Fmaintenance%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://klova.id/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fklova.id%2Fmaintenance%2F&#038;format=xml" />
+<script>cookieAuthorName = "";cookieAuthorEmail = "";</script>	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<link rel="icon" href="https://klova.id/wp-content/uploads/2019/08/favicon-50x50.png" sizes="32x32" />
+<link rel="icon" href="https://klova.id/wp-content/uploads/2019/08/favicon.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://klova.id/wp-content/uploads/2019/08/favicon.png" />
+<meta name="msapplication-TileImage" content="https://klova.id/wp-content/uploads/2019/08/favicon.png" />
+
+<!-- BEGIN ExactMetrics v5.3.9 Universal Analytics - https://exactmetrics.com/ -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-147254567-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<!-- END ExactMetrics Universal Analytics -->
+		<style type="text/css" id="wp-custom-css">
+			.shop-toolbar .product-tabs {
+    display: none;
+}
+.cat-item.cat-item-15 {
+    display: none;
+}
+.product-loop.extra-small-product .product-badges span, .product-loop.small-product .product-badges span{z-index:10!important}
+.yith-wcwl-add-to-wishlist {
+    display: none !important;
+}
+.instagram-slider .slick-arrow {
+    display: none !important;
+}		</style>
+		<style type="text/css" title="dynamic-css" class="options-output">.header-tools .header-login a,.site-header.sticky-header .header-tools .header-login a,.header-overlap .site-header:hover .header-tools .header-login a{color:#333333;}.site-header, .header-overlap .sticky-header, .header-overlap .site-header.site-header:hover{background-color:#ffffff;}.site-header{border-color:transparent;}.header-search a.toggle,.site-header.sticky-header .header-search a.toggle,.header-overlap .site-header:hover .header-search a.toggle{color:#333333;}.header-wishlist a.toggle,.site-header.sticky-header .header-wishlist a.toggle,.header-overlap .site-header:hover .header-wishlist a.toggle{color:#333333;}.header-wishlist a.toggle .wishlist-count,.site-header.sticky-header .header-wishlist a.toggle .wishlist-count,.header-overlap .site-header:hover .header-wishlist a.toggle .wishlist-count{color:#ffffff;}.header-wishlist a.toggle .wishlist-count,.site-header.sticky-header .header-wishlist a.toggle .wishlist-count,.header-overlap .site-header:hover .header-wishlist a.toggle .wishlist-count{background-color:#f8796c;}.header-wishlist a.toggle .wishlist-count,.site-header.sticky-header .header-wishlist a.toggle .wishlist-count,.header-overlap .site-header:hover .header-wishlist a.toggle .wishlist-count{border-color:#f8796c;}.header-minicart a.toggle,.header-tools.layout-only-mini-cart .header-minicart a.toggle,.site-header.sticky-header .header-minicart a.toggle,.header-overlap .site-header:hover .header-minicart a.toggle{color:#333333;}.header-minicart a.toggle .minicart-count,.header-tools.layout-only-mini-cart .header-minicart a.toggle .minicart-count,.site-header.sticky-header .header-minicart a.toggle .minicart-count,.header-overlap .site-header:hover .header-minicart a.toggle .minicart-count{color:#ffffff;}.header-minicart a.toggle .minicart-count,.header-tools.layout-only-mini-cart .header-minicart a.toggle .minicart-count,.site-header.sticky-header .header-minicart a.toggle .minicart-count,.header-overlap .site-header:hover .header-minicart a.toggle .minicart-count{background-color:#f8796c;}.header-minicart a.toggle .minicart-count,.header-tools.layout-only-mini-cart .header-minicart a.toggle .minicart-count,.site-header.sticky-header .header-minicart a.toggle .minicart-count,.header-overlap .site-header:hover .header-minicart a.toggle .minicart-count{border-color:#f8796c;}.offcanvas-btn .ti-menu,.site-header.sticky-header .offcanvas-btn .ti-menu,.header-overlap .site-header:hover .offcanvas-btn .ti-menu{color:#333333;}.page-title h1, .page-title a{color:#333333;}.page-title .page-subtitle{color:#ababab;}.page-title:before{background-color:rgba(0,10,0,0.01);}.page-title{background-image:url('https://klova.id/wp-content/uploads/2019/08/page-title-bg.jpg');}.site-breadcrumbs{color:#333333;}.site-breadcrumbs ul li:after{color:#333333;}.site-breadcrumbs .insight_core_breadcrumb a{color:#999999;}.site-breadcrumbs .insight_core_breadcrumb a:hover{color:#999999;}.site-menu .menu > ul > li > a, .site-menu .menu > li > a,  .site-header.sticky-header .site-menu .menu > ul > li > a,  .site-header.sticky-header .site-menu .menu > li > a, .header-overlap .site-header:hover .site-menu .menu > ul > li > a, .header-overlap .site-header:hover .site-menu .menu > li > a{color:#7E7E7E;}.site-menu .menu > ul > li > a:hover, .site-menu .menu > li > a:hover,  .site-header.sticky-header .site-menu .menu > ul > li > a:hover,  .site-header.sticky-header .site-menu .menu > li > a:hover, .header-overlap .site-header:hover .site-menu .menu > ul > li > a:hover, .header-overlap .site-header:hover .site-menu .menu > li > a:hover{color:#333333;}.site-menu .menu > ul > li .children a, .site-menu .menu > li .sub-menu a, .site-header.sticky-header .site-menu .menu > ul > li .children a,.site-header.sticky-header .site-menu .menu > li .sub-menu a{color:#7E7E7E;}.site-menu .menu > ul > li .children a:hover, .site-menu .menu > li .sub-menu a:hover, .site-header.sticky-header .site-menu .menu > ul > li .children a:hover,.site-header.sticky-header .site-menu .menu > li .sub-menu a:hover{color:#333333;}.site-header.sticky-header .mobile-menu-btn path,.mobile-menu-btn path,.header-overlap .site-header:hover .mobile-menu-btn path,.mobile-menu-btn path{stroke:#666666;}.area-404{background-repeat:no-repeat;background-size:cover;background-attachment:inherit;background-position:center center;background-image:url('https://klova.id/wp-content/themes/learts/assets/images/404-bg.jpg');}.product-badges span.hot{background-color:#c61932;}.product-badges span.new{background-color:#fbaf5d;}.product-badges span.sale{color:#ffffff;}.product-badges span.sale:hover{color:#ffffff;}.product-badges span.sale{background-color:#4accb0;}body, .mega-menu-content, .site-menu .sub-menu, .tm-shortcode.learts-product-categories .count{font-family:Quicksand,Arial, Helvetica, sans-serif;line-height:32px;font-weight:500;font-style:normal;color:#696969;font-size:18px;}.secondary-font, .tm-icon-box.secondary-font .title,.tm-icon-box.secondary-font a{font-family:Quicksand,'Times New Roman', Times,serif;font-weight:500;font-style:normal;}.tertiary-font, .tm-icon-box.tertiary-font .title,.tm-icon-box.tertiary-font a{font-family:Quicksand,Arial, Helvetica, sans-serif;font-weight:500;font-style:normal;}h1,h2,h3,h4,h5,h6,h1 a,h2 a,h3 a,h4 a,h5 a, h6 a, .learts-product-tabs .product-filter.hover-effect-cloudy li > a,
+				.learts-product-tabs .product-filter.hover-effect-botanical li > a,
+				.tm-shortcode.learts-categories .menu-item a,
+				.learts-product-widget .title{font-family:Quicksand,Arial, Helvetica, sans-serif;font-weight:500;font-style:normal;color:#333333;}.text-hightlight,.select2-container--default .select2-results__option--highlighted[aria-selected],#woo-quick-view .quickview-loading span:before,.isw-swatches .isw-swatch--isw_text .isw-term:not(.isw-disabled):hover,.product-style-hover--info .add-to-cart-btn,.product-style-hover--info .add-to-cart-btn,.error404 .area-404__content-heading .button:hover,.isw-swatches .isw-swatch--isw_text .isw-term.isw-selected,.footer-vc strong,.social-learts ul.social-links i:hover,.vc_tta-accordion.vc_tta-style-learts.vc_tta-style-learts .vc_tta-panel-title > a:hover,.vc_tta-accordion.vc_tta-style-learts.vc_tta-style-learts .vc_active .vc_tta-panel-title > a,.learts-social i:hover, .tm-instagram .user-name:hover,.shop-filter .learts-filter-buttons .open-filters.opened,.widget_layered_nav_filters ul li > a .woocommerce-Price-amount,.woocommerce table.shop_table tr.order-total .amount,.woocommerce table.shop_table .woocommerce-Price-amount,.widget_layered_nav_filters ul li > a .woocommerce-Price-amount,.woocommerce table.shop_table tr.order-total .amount,.woocommerce-checkout .showlogin:hover, .woocommerce-checkout .showcoupon:hover,.woocommerce-account .woocommerce-LostPassword.lost_password a,.woocommerce-account .woocommerce-MyAccount-content table.order_details tfoot tr:last-of-type td .amount,.woocommerce-order-received table.shop_table tfoot tr:last-of-type td .amount,form.track_order p.form-row:last-of-type .button:hover,.woocommerce .col2-set label,.woocommerce.single-product .product .summary form.variations_form .isw-swatch--isw_text .isw-term:hover,.woocommerce.single-product .product .summary form.variations_form .isw-swatch--isw_text .isw-term:focus,.woocommerce.single-product .product .summary form.variations_form .isw-swatch--isw_text .isw-term.isw-selected,.learts-simple-banner .text,.learts-simple-banner .button-banner a,.cart-actions input[name='apply_coupon']:hover,#yith-wcwl-form table.shop_table.wishlist_table td.product-add-to-cart .button:hover,.author-info .author-link,.comment-text .author,.widget_tm_recent_posts .recent-post__info .title a,.up-sells > .title, .related > .title,.woocommerce.single-product .product #comments > h2,.woocommerce.single-product .product #review_form_wrapper #reply-title,.woocommerce.single-product .product #tab-reviews .woocommerce-Reviews-title,.woocommerce.single-product .product .product-tabs-wrapper .wc-tabs li > a,.woocommerce.single-product .product .summary .price,.woocommerce.single-product .product .summary .product_title,.product-loop .add-to-cart-btn:hover a,.product-loop .add-to-cart-btn:focus a,.product-loop .add-to-cart-btn:hover a:before,form.track_order label,.learts-quote .button-link,.tm-shortcode .learts-loadmore-wrap .learts-loadmore-btn{color:#173e7b;}button.alt, input[type="submit"].alt, input[type="button"].alt, a.button.alt, .tm-button.button.alt,button.alt-button, input[type="submit"].alt-button, input[type="button"].alt-button, a.button.alt-button, .tm-button.button.alt,.page-header__prev-item:hover > a, .page-header__next-item:hover > a,.product-categories-menu .cat-item a:after,.woocommerce .order-again .button:hover,.woocommerce .order-again .button,.learts-mailchimp .title:after,.learts-products-widget .product-buttons > div a:hover,.categories-icon-list > [class*='col-']:hover,.wb-allview-formcnt .wb-allview-lettercnt .wb-wb-allview-letters:hover,.wb-allview-formcnt .wb-allview-lettercnt .wb-wb-allview-letters:focus,.wb-bx-controls.wb-bx-has-controls-direction .wb-bx-prev:hover,.wb-bx-controls.wb-bx-has-controls-direction .wb-bx-next:hover,.wpb-js-composer .vc_tta-tabs.vc_tta-style-learts.vc_tta-style-learts .vc_tta-tab > a:after,.wpb-js-composer .vc_tta-tabs.vc_tta-style-learts.vc_tta-style-learts .vc_tta-panel .vc_tta-panel-title > a:after,.wb-bx-wrapper.wb-carousel-learts .wb-bx-pager.wb-bx-default-pager .wb-bx-pager-item a:hover,.wb-bx-wrapper.wb-carousel-learts .wb-bx-pager.wb-bx-default-pager .wb-bx-pager-item a.active,.site-footer .mc4wp-form button[type="submit"]:hover,.woocommerce .widget_layered_nav.yith-woocommerce-ajax-product-filter ul.yith-wcan-label li a:hover,.tp-caption.rs-hover-ready.hover-line:after,.error404 .area-404__content-heading .button:hover:after,.text-product360-decription-2:before,.product-badges span.outofstock,.woocommerce.single-product .product .summary .single_add_to_cart_button:hover,.woocommerce-checkout .showlogin:hover:after, .woocommerce-checkout .showcoupon:hover:after,.woocommerce-checkout form.checkout_coupon input[type="submit"]:hover,form.track_order p.form-row:last-of-type .button,.cart-actions input[name='apply_coupon'],#yith-wcwl-form table.shop_table.wishlist_table td.product-add-to-cart .button,.share-list__title .share-button:hover,.single-product .yith-wcwl-add-to-wishlist:hover,.product-loop .quick-view-btn:hover,.woocommerce.single-product .product .summary .single_add_to_cart_button,table.compare-list .add-to-cart-btn,.product-info .quick-view-btn, .product-info .compare-btn a, .add-to-cart-btn,.compare-btn:hover,.compare-btn.loading,.product.product-style--button-hover .quick-view-btn,.product.product-style--button-hover .compare-btn{background-color:#173e7b;}button, input[type="submit"], input[type="button"], a.button, .tm-button.button,.page-header__prev-item:hover > a, .page-header__next-item:hover > a,.woocommerce .order-again .button:hover,a.show-categories-menu,.wb-allview-formcnt .wb-allview-lettercnt .wb-wb-allview-letters:hover,.wb-allview-formcnt .wb-allview-lettercnt .wb-wb-allview-letters:focus,    .tm-products-widget .slick-arrow.small:focus,    .learts-products-widget .slick-arrow.small:focus,    .site-footer .mc4wp-form button[type="submit"]:hover,#yith-wcwl-form .add-to-cart-btn .add_to_cart_button,    .ajax-results-wrapper .suggestion-title ins,    .ajax-results-wrapper .suggestion-sku ins,.woocommerce.single-product .product .summary .single_add_to_cart_button:hover,#yith-wcwl-form table.shop_table.wishlist_table td.product-add-to-cart .button,#yith-wcwl-form table.shop_table.wishlist_table td.product-add-to-cart .button:hover,#yith-wcwl-form table.shop_table.wishlist_table td.product-add-to-cart .button:focus,.cart-actions input[name='apply_coupon'],form.track_order input[type="text"]:hover,form.track_order input[type="text"]:focus,.woocommerce form .input-text:hover,.woocommerce form .input-text:focus,.woocommerce .select2:hover,.woocommerce .select2:hover,.woocommerce-EditAccountForm.edit-account input[type='password']:hover,.woocommerce-EditAccountForm.edit-account input[type='password']:focus,.share-list__title .share-button:hover,.widget_shopping_cart .woocommerce-mini-cart__buttons .button.checkout:hover,.single-product .yith-wcwl-add-to-wishlist:hover,.product-loop .quick-view-btn:hover,.product-loop .product-info .compare-btn:hover a,.product-info .quick-view-btn, .product-info .compare-btn a, .add-to-cart-btn,.single-product .compare-btn:hover, .product.product-style--button-hover .quick-view-btn,.product.product-style--button-hover .compare-btn{border-color:#173e7b;}.ajax-results-wrapper .suggestion-sku, .ajax-results-wrapper .suggestion-price,.wpb-js-composer .vc_tta-tabs.vc_tta-style-learts.vc_tta-style-learts .vc_tta-tab.vc_active > a{color:#98ebc5;}.slick-dots li.slick-active button,.slick-dots button:hover,.wb-bx-wrapper.wb-carousel-learts .wb-bx-pager.wb-bx-default-pager .wb-bx-pager-item a,.woocommerce.single-product .product .summary .single_add_to_cart_button,.woocommerce.single-product .product .summary .compare-btn:focus a{background-color:#98ebc5;}.woocommerce.single-product .product .summary .single_add_to_cart_button,.woocommerce.single-product .product .summary .compare-btn:focus a{border-color:#98ebc5;}.woocommerce-checkout .woocommerce-checkout-review-order .order-total .woocommerce-Price-amount.amount,.learts-product-category-banner .button-view a,.error404 .area-404__content-heading .button:hover,.widget_shopping_cart .woocommerce-mini-cart__total .amount{color:#98ebc5;}.header-wishlist .button.btn-view-wishlist:hover,.widget_shopping_cart .woocommerce-mini-cart__buttons .button:hover,.mabel-siwc-img-wrapper .mb-siwc-tag:hover, .mabel-siwc-img-wrapper .mb-siwc-tag.active{background-color:#98ebc5;}.header-wishlist .button.btn-view-wishlist:hover,.widget_shopping_cart .woocommerce-mini-cart__buttons .button:hover{border-color:#98ebc5;}a,.site-header .header-search.search-open a.toggle{color:#173e7b;}a:hover, a:focus,.site-mobile-menu .menu-show-all > a,.shop-toolbar .filter-button .open-filters.opened,.topbar .switcher .nice-select:hover .current,.topbar .switcher .nice-select:hover:after,.topbar .switcher .nice-select .option:hover,.social-links li i,.cookie-wrapper a,.shop-toolbar .switcher.active,.shop-toolbar .switcher:hover,.post-tags .tagcloud a:hover,.widget_tag_cloud .tagcloud a:hover, .widget_product_tag_cloud .tagcloud a:hover,.yith-wcwl-add-to-wishlist .yith-wcwl-wishlistaddedbrowse a,.yith-wcwl-add-to-wishlist .yith-wcwl-wishlistexistsbrowse a,.woocommerce.single-product .product .summary .product-meta-buttons > div a:hover,.woocommerce.single-product .product .summary table.product_meta td.value a:hover,.woocommerce.single-product .product .summary table.product-share td.value a:hover,.category-grid-item:hover .product-category-content .category-link a,.category-grid-item:hover .product-category-content .category-link:after,.learts-product-widget .yith-wcwl-add-to-wishlist .yith-wcwl-wishlistaddedbrowse a:before,.learts-product-widget .yith-wcwl-add-to-wishlist .yith-wcwl-wishlistexistsbrowse a:before{color:#173e7b;}.cookie-buttons a:hover{background-color:#173e7b;}.widget_calendar tbody td a:hover{border-color:#173e7b;}body.offcanvas-menu-opened .offcanvas-menu{background-color:#F4EDE7;}</style><style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1565120342151{margin-bottom: 0px !important;}.vc_custom_1567536546231{margin-bottom: 0px !important;}.vc_custom_1565552207243{margin-bottom: 0px !important;}</style><style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1565120342151{margin-bottom: 0px !important;}.vc_custom_1567536546231{margin-bottom: 0px !important;}.vc_custom_1565552207243{margin-bottom: 0px !important;}</style><style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1565120342151{margin-bottom: 0px !important;}.vc_custom_1567536546231{margin-bottom: 0px !important;}.vc_custom_1565552207243{margin-bottom: 0px !important;}</style><style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1565120342151{margin-bottom: 0px !important;}.vc_custom_1567536546231{margin-bottom: 0px !important;}.vc_custom_1565552207243{margin-bottom: 0px !important;}</style><style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1548305281343{background-color: #ffffff !important;}.vc_custom_1548305066877{padding-bottom: 50px !important;}.vc_custom_1548305281343{background-color: #ffffff !important;}.vc_custom_1548305066877{padding-bottom: 50px !important;}</style><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>
+</head>
+
+<body class="page-template page-template-coming-soon page-template-coming-soon-php page page-id-270 theme-learts woocommerce-no-js site-header-split wpb-js-composer js-comp-ver-6.0.4 vc_responsive">
+
+			<div class="offcanvas-sidebar on-left action-sidebar widget-area">
+				<a href="#" class="offcanvas-close">Close</a>
+									<div class="offcanvas-sidebar-inner">
+						<section id="text-2" class="widget widget_text">			<div class="textwidget"><p>Learts puts a strong emphasis on simplicity, usefulness and creativity to ensure the quality of our products. Our designs never get out of date. We combine joyfulness of crafting things with aethestic values on every item in our store.</p>
+</div>
+		</section><section id="custom_html-10" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><p><a href="#"><span class="__cf_email__" data-cfemail="98fbf7f6ecf9fbecd8f4fdf9eaecebb6fbf7f5">[email&#160;protected]</span></a></p>
+<div class="phone">(+00) 123 567990</div>
+<ul class="social">
+ 	<li class="has-title hint--top hint--bounce" aria-label="Twitter"><i class="fa fa-twitter"></i><a href="#"></a></li>
+ 	<li class="has-title hint--top hint--bounce" aria-label="Facebook"><i class="fa fa-facebook"></i><a href="#"></a></li>
+ 	<li class="has-title hint--top hint--bounce" aria-label="Instagram"><i class="fa fa-instagram"></i><a href="#"></a></li>
+ 	<li class="has-title hint--top hint--bounce" aria-label="Youtube"><i class="fa fa-youtube-play"></i><a href="#"></a></li>
+</ul></div></section>					</div>
+											</div>
+			
+
+<div id="page-container">
+
+	
+		<!-- Header -->
+	<header class="site-header header-split header-scheme--light">
+		
+<div class=" container wide">
+	<div class="row">
+		<div class="left-col">
+						<div class="offcanvas-btn hidden-lg-down on-left">
+				<a href="#"><span class="open-nav">
+						<div class="icon-inner"><span></span><span></span><span></span></div>
+					</span></a>
+			</div>
+										<div class="header-widget header-widget-left">
+					<section id="custom_html-11" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><div class="phone" style="line-height: 60px;">
+<i class="fas fa-phone" style="font-size:16px; color: #6996969; padding-right: 15px;"></i><strong style="color: #333333; font-size: 16px;">0918 206 263</strong>
+</div></div></section>				</div>
+					</div>
+					<div class="site-logo">
+				<a href="https://klova.id/" rel="home">
+					<img src="https://klova.id/wp-content/uploads/2019/08/klova-logo.png" srcset="https://klova.id/wp-content/uploads/2019/08/klova-logo.png 2x" alt="Klova Studio" class="logo-desktop hidden-lg-down" />					<img src="https://klova.id/wp-content/uploads/2019/08/klova-logo.png" alt="Klova Studio" class="logo-mobile hidden-xl-up" data-o_logo="https://klova.id/wp-content/uploads/2019/08/klova-logo.png" />				</a>
+			</div>
+						<div class="site-menu hidden-lg-down menu-align-center  ">
+
+				
+			</div>
+					<div class="right-col header-tools">
+						<div class="header-login ">
+				<a href="https://klova.id/my-account/"><i
+						class="fal fa-user"></i><span>Log in</span></a>
+			</div>
+						<div class="header-minicart">
+				<a href="#" class="toggle" aria-label="Shopping Cart">
+					<i class="fal fa-shopping-cart" aria-hidden="true"></i>
+					<span class="minicart-text">
+									<span class="minicart-count">0</span>
+									<span class="minicart-title">My Cart</span>
+						
+			<span class="minicart-total"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>0.00</span></span>
+
+								</span>
+				</a>
+				<div class="minicart-dropdown-wrapper">
+					<div class="widget woocommerce widget_shopping_cart">
+						<div class="widget_shopping_cart_content"></div>
+					</div>
+				</div>
+			</div>
+					</div>
+	</div>
+</div>
+	</header>
+	<!-- End Header -->
+	
+	<div class="main-container">
+
+						<div class="page-title page-title-bg_image no-page-title">
+					<div class="container">
+						<div class="row">
+							<div class="col-xs-12">
+								<h1 class="entry-title">
+									Maintenance
+								</h1>
+
+																								<div class="site-breadcrumbs">
+									<ul class="insight_core_breadcrumb">
+	<li class="level-1 top"><a href="https://klova.id/">Home</a></li>
+	<li class="level-2 sub tail current">Maintenance</li>
+</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="coming-soon-content container" role="main">
+	<div class="inner-page-wrap row">
+					<article id="post-270" class="post-270 page type-page status-publish hentry">
+				<div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row row column-center vc_custom_1547261735359 vc_row-has-fill vc_row-o-full-height vc_row-o-columns-top vc_row-o-content-top vc_row-flex"><div class="wpb_column vc_column_container col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+<div class="tm-shortcode learts-space" id="learts-space-1"></div>
+
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="180" height="300" src="https://klova.id/wp-content/uploads/2019/09/1567791251566-1-180x300.jpg" class="vc_single_image-img attachment-medium" alt="" srcset="https://klova.id/wp-content/uploads/2019/09/1567791251566-1-180x300.jpg 180w, https://klova.id/wp-content/uploads/2019/09/1567791251566-1-768x1280.jpg 768w, https://klova.id/wp-content/uploads/2019/09/1567791251566-1-614x1024.jpg 614w, https://klova.id/wp-content/uploads/2019/09/1567791251566-1-540x900.jpg 540w" sizes="(max-width: 180px) 100vw, 180px" /></div>
+		</figure>
+	</div>
+<h2 style="font-size: 56px;color: #333333;line-height: 72px;text-align: center;font-family:Quicksand;font-weight:400;font-style:normal" class="vc_custom_heading" >We'll Back Soon</h2>
+<div class="tm-shortcode learts-space" id="learts-space-2"></div>
+<div class="vc_row wpb_row vc_inner row"><div class="wpb_column vc_column_container col-sm-3"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div><div class="wpb_column vc_column_container col-sm-3"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div>
+			</article><!-- #post -->
+			</div>
+
+</div><!-- .site-content -->
+
+
+</div>
+
+
+
+
+			<a href="#" class="back-to-top"><i
+					class="far fa-chevron-up"></i><span>Back to top</span></a>
+							<div class="cookie-wrapper"
+				     data-expires="30">
+					<div class="cookie-inner">
+						<div class="cookie-message">
+							We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.						</div>
+						<div class="cookie-buttons">
+							<a href="#"
+							   class="cookie-btn cookie-accept-btn"><i class="ti-close"></i></a>
+						</div>
+					</div>
+				</div>
+				
+</div>
+
+<div id="woo-quick-view" class="animated-quick-view"></div>	<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+		var c = document.body.className;
+		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+		document.body.className = c;
+	</script>
+			<script type="text/javascript">
+			var wc_product_block_data = JSON.parse( decodeURIComponent( '%7B%22min_columns%22%3A1%2C%22max_columns%22%3A6%2C%22default_columns%22%3A3%2C%22min_rows%22%3A1%2C%22max_rows%22%3A6%2C%22default_rows%22%3A1%2C%22thumbnail_size%22%3A300%2C%22placeholderImgSrc%22%3A%22https%3A%5C%2F%5C%2Fklova.id%5C%2Fwp-content%5C%2Fuploads%5C%2Fwoocommerce-placeholder-600x800.png%22%2C%22min_height%22%3A500%2C%22default_height%22%3A500%2C%22isLargeCatalog%22%3Afalse%2C%22limitTags%22%3Afalse%2C%22hasTags%22%3Atrue%2C%22productCategories%22%3A%5B%7B%22term_id%22%3A15%2C%22name%22%3A%22All%22%2C%22slug%22%3A%22all%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A15%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A8%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fklova.id%5C%2Fproduct-category%5C%2Fall%5C%2F%22%7D%2C%7B%22term_id%22%3A53%2C%22name%22%3A%22Accessories%22%2C%22slug%22%3A%22accessories%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A53%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A5%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fklova.id%5C%2Fproduct-category%5C%2Faccessories%5C%2F%22%7D%2C%7B%22term_id%22%3A54%2C%22name%22%3A%22Stationary%22%2C%22slug%22%3A%22stationary%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A54%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A3%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fklova.id%5C%2Fproduct-category%5C%2Fstationary%5C%2F%22%7D%5D%2C%22homeUrl%22%3A%22https%3A%5C%2F%5C%2Fklova.id%5C%2F%22%7D' ) );
+		</script>
+		<link rel='stylesheet' id='insight-popup-css'  href='https://klova.id/wp-content/plugins/insight-core/inc/popup/assets/css/popup.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='vc_google_fonts_quicksand300regular700-css'  href='https://fonts.googleapis.com/css?family=Quicksand%3A300%2Cregular%2C700&#038;ver=5.2.3' type='text/css' media='all' />
+<script type='text/javascript' src='https://klova.id/wp-content/themes/learts/assets/libs/devbridge-autocomplete/js/jquery.autocomplete.min.js'></script>
+<script type='text/javascript' src='https://klova.id/wp-content/themes/learts/assets/libs/fitvids/js/jquery.fitvids.js'></script>
+<script type='text/javascript' src='https://klova.id/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
+<script type='text/javascript' src='https://klova.id/wp-content/plugins/js_composer/assets/lib/bower/isotope/dist/isotope.pkgd.min.js?ver=6.0.4'></script>
+<script type='text/javascript' src='https://klova.id/wp-content/themes/learts/assets/libs/jquery-nice-select/js/jquery.nice-select.min.js'></script>
+<script type='text/javascript' src='https://klova.id/wp-content/themes/learts/assets/libs/jquery.gifplayer/dist/jquery.gifplayer.js'></script>
+<script type='text/javascript' src='https://klova.id/wp-content/themes/learts/assets/libs/js-cookie/js/js.cookie.js'></script>
+<script type='text/javascript' src='https://klova.id/wp-content/themes/learts/assets/libs/magnific-popup/js/jquery.magnific-popup.min.js'></script>
+<script type='text/javascript' src='https://klova.id/wp-content/themes/learts/assets/libs/mobile-detect/js/mobile-detect.min.js'></script>
+<script type='text/javascript' src='https://klova.id/wp-content/themes/learts/assets/libs/perfect-scrollbar/js/perfect-scrollbar.jquery.min.js'></script>
+<script type='text/javascript' src='https://klova.id/wp-content/themes/learts/assets/libs/slick-carousel/js/slick.min.js'></script>
+<script type='text/javascript' src='https://klova.id/wp-content/themes/learts/assets/libs/select2/js/select2.min.js'></script>
+<script type='text/javascript' src='https://klova.id/wp-content/themes/learts/assets/libs/animejs/js/anime.min.js'></script>
+<script type='text/javascript' src='https://klova.id/wp-content/themes/learts/assets/libs/lightgallery/js/lightgallery-all.min.js'></script>
+<script type='text/javascript' src='https://klova.id/wp-content/themes/learts/assets/libs/superfish/js/superfish.min.js'></script>
+<script type='text/javascript' src='https://klova.id/wp-includes/js/hoverIntent.min.js?ver=1.8.1'></script>
+<script type='text/javascript' src='https://klova.id/wp-content/themes/learts/assets/libs/favico.js/js/favico-0.3.10.min.js'></script>
+<script type='text/javascript' src='https://klova.id/wp-content/themes/learts/assets/libs/growl/js/jquery.growl.js'></script>
+<script type='text/javascript' src='https://klova.id/wp-content/themes/learts/assets/libs/mojs/js/mo.min.js'></script>
+<script type='text/javascript' src='https://klova.id/wp-content/plugins/yith-woocommerce-wishlist/assets/js/jquery.selectBox.min.js?ver=1.2.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var yith_wcwl_l10n = {"ajax_url":"\/wp-admin\/admin-ajax.php","redirect_to_cart":"no","multi_wishlist":"","hide_add_button":"1","is_user_logged_in":"","ajax_loader_url":"https:\/\/klova.id\/wp-content\/plugins\/yith-woocommerce-wishlist\/assets\/images\/ajax-loader.gif","remove_from_wishlist_after_add_to_cart":"yes","labels":{"cookie_disabled":"We are sorry, but this feature is available only if cookies are enabled on your browser.","added_to_cart_message":"<div class=\"woocommerce-message\">Product correctly added to cart<\/div>"},"actions":{"add_to_wishlist_action":"add_to_wishlist","remove_from_wishlist_action":"remove_from_wishlist","move_to_another_wishlist_action":"move_to_another_wishlsit","reload_wishlist_and_adding_elem_action":"reload_wishlist_and_adding_elem"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://klova.id/wp-content/plugins/yith-woocommerce-wishlist/assets/js/jquery.yith-wcwl.js?ver=2.2.13'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/klova.id\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://klova.id/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.4'></script>
+<script type='text/javascript' src='https://klova.id/wp-content/plugins/learts-addons/assets/js/shortcodes.js?ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://klova.id/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.7.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_819790fe23e41be244a2004facbfc8fe","fragment_name":"wc_fragments_819790fe23e41be244a2004facbfc8fe","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://klova.id/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=3.7.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woobt_vars = {"total_price_text":"Additional price:","position":"before","change_image":"yes","change_price":"yes","counter":"individual","price_format":"%1$s%2$s","price_decimals":"2","price_thousand_separator":",","price_decimal_separator":".","currency_symbol":"$","alert_selection":"Please select some product options before adding to the cart."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://klova.id/wp-content/plugins/woo-bought-together/assets/js/frontend.js?ver=1.5.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var yith_woocompare = {"ajaxurl":"\/?wc-ajax=%%endpoint%%","actionadd":"yith-woocompare-add-product","actionremove":"yith-woocompare-remove-product","actionview":"yith-woocompare-view-table","actionreload":"yith-woocompare-reload-product","added_label":"Added","table_title":"Product Comparison","auto_open":"yes","loader":"https:\/\/klova.id\/wp-content\/plugins\/yith-woocommerce-compare\/assets\/images\/loader.gif","button_text":"Compare","cookie_name":"yith_woocompare_list","close_label":"Close"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://klova.id/wp-content/plugins/yith-woocommerce-compare/assets/js/woocompare.min.js?ver=2.3.13'></script>
+<script type='text/javascript' src='https://klova.id/wp-content/plugins/yith-woocommerce-compare/assets/js/jquery.colorbox-min.js?ver=1.4.21'></script>
+<script type='text/javascript' src='//klova.id/wp-content/plugins/woocommerce/assets/js/prettyPhoto/jquery.prettyPhoto.min.js?ver=3.1.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var leartsConfigs = {"ajax_url":"https:\/\/klova.id\/wp-admin\/admin-ajax.php","wc_cart_url":"https:\/\/klova.id\/cart\/","quickview_image_width":"432","quickview_image_height":"576","logged_in":"","sticky_header":"","search_by":"both","search_min_chars":"1","search_limit":"6","search_excerpt_on":"","adding_to_cart_text":"Adding to cart...","added_to_cart_text":"Product has been added to cart!","shop_add_to_cart_notification_on":"1","shop_add_to_cart_favico_on":"1","shop_favico_badge_bg_color":"#ff0000","shop_favico_badge_text_color":"#ffffff","added_to_cart_notification_text":"has been added to cart!","view_cart_notification_text":"View Cart","shop_wishlist_notification_on":"1","added_to_wishlist_text":"Product added!","browse_wishlist_text":"Browse Wishlist","wishlist_url":"https:\/\/klova.id\/maintenance\/","shop_ajax_on":"1","categories_toggle":"1","product_page_layout":"basic","categories_columns":"5","go_to_filter_text":"Back to top","wishlist_burst_color":"#f8796c","is_shop":"","archive_display_type":"standard","portfolio_columns":"3"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://klova.id/wp-content/themes/learts/assets/js/theme.min.js?ver=1.2.4'></script>
+<script type='text/javascript'>
+var _leartsInlineStyle = document.getElementById( 'learts-main-style-inline-css' );
+if ( _leartsInlineStyle !== null ) {_leartsInlineStyle.textContent+='#learts-space-1{height:100px}@media (max-width:1199px){#learts-space-1{height:90px}}@media (max-width:991px){#learts-space-1{height:80px}}@media (max-width:767px){#learts-space-1{height:70px}}@media (max-width:543px){#learts-space-1{height:50px}}#learts-space-2{height:70px}@media (max-width:1199px){#learts-space-2{height:60px}}@media (max-width:991px){#learts-space-2{height:50px}}@media (max-width:767px){#learts-space-2{height:40px}}@media (max-width:543px){#learts-space-2{height:30px}}';}
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_single_product_params = {"i18n_required_rating_text":"Please select a rating","review_rating_required":"yes","flexslider":{"rtl":false,"animation":"slide","smoothHeight":true,"directionNav":false,"controlNav":"thumbnails","slideshow":false,"animationSpeed":500,"animationLoop":false,"allowOneSlide":false},"zoom_enabled":"1","zoom_options":[],"photoswipe_enabled":"1","photoswipe_options":{"shareEl":false,"closeOnScroll":false,"history":false,"hideAnimationDuration":0,"showAnimationDuration":0},"flexslider_enabled":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://klova.id/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=3.7.0'></script>
+<script type='text/javascript' src='https://klova.id/wp-includes/js/underscore.min.js?ver=1.8.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://klova.id/wp-includes/js/wp-util.min.js?ver=5.2.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_variation_params = {"wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_no_matching_variations_text":"Sorry, no products matched your selection. Please choose a different combination.","i18n_make_a_selection_text":"Please select some product options before adding this product to your cart.","i18n_unavailable_text":"Sorry, this product is unavailable. Please choose a different combination."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://klova.id/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=3.7.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var isw_vars = {"ajax":"https:\/\/klova.id\/wp-admin\/admin-ajax.php","product_selector":".product","price_selector":".price","localization":{"add_to_cart_text":"Add to cart","read_more_text":"Read more","select_options_text":"Select options"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://klova.id/wp-content/plugins/insight-swatches/assets/js/scripts.js?ver=1.0.9'></script>
+<script type='text/javascript' src='https://klova.id/wp-includes/js/wp-embed.min.js?ver=5.2.3'></script>
+<script type='text/javascript' src='https://klova.id/wp-content/plugins/insight-core/inc/popup/assets/js/jquery.waypoints.min.js?ver=5.2.3'></script>
+<script type='text/javascript' src='https://klova.id/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.0.4'></script>
+
+</body>
+
+</html>

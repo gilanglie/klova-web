@@ -1,0 +1,322 @@
+# Copyright (C) 2019 WPC Bought Together for WooCommerce
+# This file is distributed under the same license as the WPC Bought Together for WooCommerce package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPC Bought Together for WooCommerce\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: woo-bought-together-premium/index.php:144, woo-bought-together-premium/index.php:155
+msgid "WPC Bought Together"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:144, woo-bought-together-premium/index.php:806
+msgid "Bought Together"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:158
+msgid "Thank you for using our plugin! If you are satisfied, please reward it a full five-star %s rating."
+msgstr ""
+
+#: woo-bought-together-premium/index.php:161
+msgid "Reviews"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:163
+msgid "Changelog"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:165
+msgid "Discussion"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:172
+msgid "How to use?"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:176, woo-bought-together-premium/index.php:543
+msgid "Settings"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:181
+msgid "Premium Version"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:185
+msgid "Premium Support"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:193
+msgid "When adding/editing the product you can choose Bought Together tab then add some products with the new price."
+msgstr ""
+
+#: woo-bought-together-premium/index.php:205
+msgid "General"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:209
+msgid "Position"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:214
+msgid "Before add to cart button"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:218
+msgid "After add to cart button"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:221
+msgid "Choose the position to show the products list."
+msgstr ""
+
+#: woo-bought-together-premium/index.php:225
+msgid "Show thumbnail"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:230, woo-bought-together-premium/index.php:262, woo-bought-together-premium/index.php:302, woo-bought-together-premium/index.php:318, woo-bought-together-premium/index.php:336, woo-bought-together-premium/index.php:390, woo-bought-together-premium/index.php:421, woo-bought-together-premium/index.php:436, woo-bought-together-premium/index.php:452, woo-bought-together-premium/index.php:468
+msgid "Yes"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:234, woo-bought-together-premium/index.php:251, woo-bought-together-premium/index.php:266, woo-bought-together-premium/index.php:289, woo-bought-together-premium/index.php:306, woo-bought-together-premium/index.php:322, woo-bought-together-premium/index.php:340, woo-bought-together-premium/index.php:394, woo-bought-together-premium/index.php:425, woo-bought-together-premium/index.php:440, woo-bought-together-premium/index.php:456, woo-bought-together-premium/index.php:472
+msgid "No"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:240
+msgid "Show price"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:244
+msgid "Price"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:247
+msgid "Total"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:257
+msgid "Show short description"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:272
+msgid "Link to individual product"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:277
+msgid "Yes, open in the same tab"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:281
+msgid "Yes, open in the new tab"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:285
+msgid "Yes, open quick view popup"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:297
+msgid "Show \"this item\""
+msgstr ""
+
+#: woo-bought-together-premium/index.php:309
+msgid "The main product will be listed on the top of the list."
+msgstr ""
+
+#: woo-bought-together-premium/index.php:313
+msgid "Change image"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:326
+msgid "Change the main product image when choosing the variation of variable products."
+msgstr ""
+
+#: woo-bought-together-premium/index.php:331
+msgid "Change price"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:344
+msgid "Change the main product price when choosing the variation or quantity of products. It uses JavaScript to change product price so it is very dependent on theme’s HTML. If it cannot find and update the product price, please contact us and we can help you adjust the JS file."
+msgstr ""
+
+#: woo-bought-together-premium/index.php:349
+msgid "Counter"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:354
+msgid "Count the individual products"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:358
+msgid "Count the product quantities"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:362
+msgid "Hide"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:366
+msgid "Counter on the add to cart button."
+msgstr ""
+
+#: woo-bought-together-premium/index.php:371
+msgid "Additional price text"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:374, woo-bought-together-premium/index.php:375, woo-bought-together-premium/index.php:513
+msgid "Additional price:"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:376
+msgid "Leave blank to use the default text and can be translated."
+msgstr ""
+
+#: woo-bought-together-premium/index.php:381
+msgid "Cart & Checkout"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:385
+msgid "Change quantity"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:398
+msgid "Buyer can change the quantity of bought together products or not? If not, the quantities will sync with the main product."
+msgstr ""
+
+#: woo-bought-together-premium/index.php:404, woo-bought-together-premium/index.php:820
+msgid "Search"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:408
+msgid "Search limit"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:416
+msgid "Search by SKU"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:431
+msgid "Search exact"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:443
+msgid "Match whole product title or content?"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:447
+msgid "Search sentence"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:459
+msgid "Do a phrase search?"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:463
+msgid "Accept same products"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:475
+msgid "If yes, a product can be added many times."
+msgstr ""
+
+#: woo-bought-together-premium/index.php:481
+msgid "Update Options"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:525
+msgid "Please select some product options before adding to the cart."
+msgstr ""
+
+#: woo-bought-together-premium/index.php:558
+msgid "Premium support"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:579, woo-bought-together-premium/index.php:581, woo-bought-together-premium/index.php:739
+msgid "(bought together %s)"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:697
+msgid "Have an error when adding this product to the cart."
+msgstr ""
+
+#: woo-bought-together-premium/index.php:783, woo-bought-together-premium/index.php:789, woo-bought-together-premium/index.php:793, woo-bought-together-premium/index.php:858
+msgid "New price in percent or number"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:783, woo-bought-together-premium/index.php:789, woo-bought-together-premium/index.php:793, woo-bought-together-premium/index.php:858
+msgid "Default quantity"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:799
+msgid "No results found for \"%s\""
+msgstr ""
+
+#: woo-bought-together-premium/index.php:822
+msgid "settings"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:827
+msgid "searching..."
+msgstr ""
+
+#: woo-bought-together-premium/index.php:829
+msgid "Type any keyword to search"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:835
+msgid "Selected"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:858
+msgid "Remove"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:869
+msgid "Checked all"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:873
+msgid "Checked all by default?"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:877
+msgid "Custom quantity"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:881
+msgid "Allow the customer can change the quantity of each product?"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:885
+msgid "Limit each item"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:889
+msgid "Use default quantity as min?"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:901
+msgid "Before text"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:910
+msgid "After text"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:1014
+msgid "This item:"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:1119
+msgid "Choose"
+msgstr ""
+
+#: woo-bought-together-premium/index.php:1125
+msgid "Clear"
+msgstr ""

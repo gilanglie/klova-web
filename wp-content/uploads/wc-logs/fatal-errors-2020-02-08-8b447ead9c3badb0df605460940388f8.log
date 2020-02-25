@@ -1,0 +1,13 @@
+2020-02-08T08:43:18+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_total() on null in /var/www/klova/wp-content/themes/learts/framework/class-woo.php:591
+Stack trace:
+#0 /var/www/klova/wp-content/themes/learts/framework/class-templates.php(1444): Learts_Woo::get_cart_total()
+#1 /var/www/klova/wp-content/themes/learts/components/header/header-split.php(55): Learts_Templates::header_block_cart()
+#2 /var/www/klova/wp-includes/template.php(724): require('/var/www/klova/...')
+#3 /var/www/klova/wp-includes/template.php(671): load_template('/var/www/klova/...', false)
+#4 /var/www/klova/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#5 /var/www/klova/wp-content/themes/learts/header.php(80): get_template_part('components/head...')
+#6 /var/www/klova/wp-includes/template.php(722): require_once('/var/www/klova/...')
+#7 /var/www/klova/wp-includes/template.php(671): load_template('/var/www/klova/...', true)
+#8 /var/www/klova/wp-includes/general-template.php(41): locate_template(Array, true)
+#9 /var/www/klova/wp in /var/www/klova/wp-content/themes/learts/framework/class-woo.php on line 591
+

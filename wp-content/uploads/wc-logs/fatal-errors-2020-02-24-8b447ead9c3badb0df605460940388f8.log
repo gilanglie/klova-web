@@ -1,0 +1,10 @@
+2020-02-24T23:40:23+00:00 CRITICAL Uncaught Error: Call to a member function get_transaction_id() on boolean in /var/www/klova/wp-content/plugins/woo-orders-tracking/includes/admin/orders-edit-tracking.php:753
+Stack trace:
+#0 /var/www/klova/wp-includes/class-wp-hook.php(288): VI_WOO_ORDERS_TRACKING_Admin_Orders_Edit_Tracking->woocommerce_after_order_itemmeta(9112, Object(WC_Order_Item_Product), Object(WC_Product_Simple))
+#1 /var/www/klova/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /var/www/klova/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /var/www/klova/wp-content/plugins/woocommerce/includes/admin/meta-boxes/views/html-order-item.php(45): do_action('woocommerce_aft...', 9112, Object(WC_Order_Item_Product), Object(WC_Product_Simple))
+#4 /var/www/klova/wp-content/plugins/woocommerce/includes/admin/meta-boxes/views/html-order-items.php(62): include('/var/www/klova/...')
+#5 /var/www/klova/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(1410): include('/var/www/klova/...')
+#6 /var/www/klova/wp- in /var/www/klova/wp-content/plugins/woo-orders-tracking/includes/admin/orders-edit-tracking.php on line 753
+
