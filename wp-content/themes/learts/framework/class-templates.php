@@ -1017,8 +1017,9 @@ if ( ! class_exists( 'Learts_Templates' ) ) {
     display: none !important;
 }
 .help-fixed-form div.wpcf7-mail-sent-ok {
-    border: 2px solid #398f14;
-    color: black;
+    border: none;
+    color: #ff0000;
+    font-size: 14px;
 }
 .help-fixed-form br {
     display: none;
@@ -1037,6 +1038,11 @@ if ( ! class_exists( 'Learts_Templates' ) ) {
     font-weight: normal;
     display: block;
     text-align: left;
+}
+@media (max-width: 500px) {
+	.help-fixed-form {
+    width: 80%;
+	}
 }
 </style>
 <script>
