@@ -22,7 +22,7 @@ class VI_WOO_ORDERS_TRACKING_FRONTEND_ORDER_DETAILS {
 	 */
 	public function woocommerce_order_item_meta_start( $item_id, $item, $order, $plain_text ) {
 		if ( is_page( 'my-account' ) ) { 
-			VI_WOO_ORDERS_TRACKING_ADMIN_WOO_ORDER_EMAIL::include_tracking_info_after_order_item( $item_id, $order, $plain_text );
+			VI_WOO_ORDERS_TRACKING_ADMIN_WOO_ORDER_EMAIL::include_tracking_info( $item_id, $order, $plain_text );
 		}
 	} 
 }
