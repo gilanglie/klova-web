@@ -7,7 +7,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 class VI_WOO_ORDERS_TRACKING_FRONTEND_ORDER_DETAILS {
 	protected $settings;
 
-	public function __construct() {
+	public function __construct() { 
 		$this->settings = new VI_WOO_ORDERS_TRACKING_DATA();
 		add_action( 'woocommerce_order_item_meta_start', array( $this, 'woocommerce_order_item_meta_start' ), 10, 4 );
 	}
@@ -21,8 +21,8 @@ class VI_WOO_ORDERS_TRACKING_FRONTEND_ORDER_DETAILS {
 	 * @throws Exception
 	 */
 	public function woocommerce_order_item_meta_start( $item_id, $item, $order, $plain_text ) {
-		if ( is_page( 'my-account' ) ) {
+		if ( is_page( 'my-account' ) ) { 
 			VI_WOO_ORDERS_TRACKING_ADMIN_WOO_ORDER_EMAIL::include_tracking_info_after_order_item( $item_id, $order, $plain_text );
 		}
-	}
+	} 
 }
